@@ -1,1 +1,2 @@
 # parkinsonsdiseasedetection
+This project predicts the presence of Parkinson's disease using machine learning. Leveraging a dataset from Kaggle, we applied data preprocessing and feature scaling techniques with pandas and numpy. We trained a Support Vector Machine (SVM) model using scikit-learn. The project aims to assist in early detection and management of Parkinson's disease, contributing to better patient outcomes.
